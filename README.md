@@ -9,7 +9,8 @@ Também adicionei uma saída do loop (utilizado no menu de opções) que no tuto
 
 Lembrando que fiz as alterações para entender melhor o código e praticar um pouco sobre algoritmo e módulos. Os créditos são do site Python Progresive.
 
-Link YouTube: https://youtu.be/LXWHqKOdAUM
+YouTube Parte I: https://youtu.be/LXWHqKOdAUM
+YouTube Parte II: https://youtu.be/fzWuy5I9yE8
 
 Fontes:
 
